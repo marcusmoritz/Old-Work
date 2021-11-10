@@ -2,4 +2,4 @@
 
 Hello, this is Marcus!
 
-This is old code I have made over the years. It wasn't originally created to be my resume but this is what I could find at the moment. I hope you enjoy!
+This is old code I have made over the years. The files range from work created in 2018-2021 and consists of code I made for my own enjoyment. The languages I use are mostly Python and Javascript. Since these are projects made for fun they mostly consist of visualisations and use the opensource visual library P5! I hope you enjoy!
